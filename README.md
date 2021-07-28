@@ -47,7 +47,7 @@
   Please run node etmms.js in your terminal
   <ur>
 
-  ![demo](https://github.com/DavidPedraza95/Team_Profile_Generator/blob/main/Assets/Team%20Profile%20Generator.gif)
+  ![demo](https://github.com/DavidPedraza95/Employee_Management_System/blob/main/Assets/etmms%20gif.gif?raw=true)
     
     
   Please follow the link below for the full video:
